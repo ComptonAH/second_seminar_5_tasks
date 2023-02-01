@@ -6,7 +6,7 @@ int Num2 = Convert.ToInt32(Console.ReadLine());
 
 if (Num1%Num2==0)
 {
-    Console.WriteLine($"{Num2} is a divisible number to {Num1}");
+    Console.WriteLine($"{Num2} is a divisible number of {Num1}");
 }
 else
 {
